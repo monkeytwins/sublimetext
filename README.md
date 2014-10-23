@@ -1,3 +1,5 @@
+#我的Sublime Text3配置文件
+
 ```
 {
     "bold_folder_labels": true,
@@ -36,3 +38,17 @@
     "word_wrap": false
 }
 ```
+
+#常用插件列表
+
+- emmet 神器，不解释
+- alignment 强迫症患者
+- Docblockr 原来注释也可以这么有艺术
+- JsFormat JS格式化
+- SideBarEnhancements 不多解释了吧，光是Preview in Browers就足够有理由装上了
+- IMESupport 国人必备，不然输入法无法跟随光标
+
+#参考资料
+
+- Sublime Text 全程指引 http://www.cnblogs.com/figure9/p/sublime-text-complete-guide.html
+- 打造一款便携版的Sublime Text http://segmentfault.com/blog/miraclewong/1190000000707661
