@@ -64,6 +64,14 @@
 - JsFormat JS格式化
 - SideBarEnhancements 不多解释了吧，光是Preview in Browers就足够有理由装上了
 - IMESupport 国人必备，不然输入法无法跟随光标
+- All Autocomplete
+- HTML-CSS-JS Pretty 代码格式化
+- Autoprefixer 自动添加CSS3前缀
+- Terminal 可以快速从当前文件或目录启动命令行
+- LESS
+- SASS
+- BracketHighlighter 各种高亮匹配
+- jQuery 用户不算太大，偶尔记不住写法比去看api来得方便
 
 #参考资料
 
